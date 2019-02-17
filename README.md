@@ -1,4 +1,4 @@
 # COMP2210
 <br />
-Code storage for activites&projects in class COMP2210.
+Code storage for activities&projects in class COMP2210(Fundamentals of Computing II).
 <br />
